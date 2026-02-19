@@ -30,9 +30,9 @@ python slideshow.py
 * Image Processing: Implemented list comprehension to efficiently open and resize all images at once:
 images = [Image.open(path).resize(image_size) for path in image_path]
 
-*GUI Label Updates: Uses label.config() and label.update() to refresh the UI in real-time during the loop.
+* GUI Label Updates: Uses label.config() and label.update() to refresh the UI in real-time during the loop.
 
-*Path Handling: Employs Raw Strings (r"path") to ensure Windows backslashes don't cause escape character errors.
+* Path Handling: Employs Raw Strings (r"path") to ensure Windows backslashes don't cause escape character errors.
 
 ## Author
 Rutuja Wagh
