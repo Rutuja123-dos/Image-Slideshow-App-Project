@@ -1,4 +1,4 @@
-## 📸 Python Image Slideshow Creator
+ ## 📸 Python Image Slideshow Creator
 A dynamic, high-resolution image slideshow application built with Python, Tkinter, and the Pillow (PIL) library. This tool automates the process of resizing and cycling through a collection of images in a clean GUI window.
 
 ## 🚀 Features
