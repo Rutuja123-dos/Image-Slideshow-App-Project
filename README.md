@@ -9,7 +9,7 @@ A dynamic, high-resolution image slideshow application built with Python, Tkinte
 * Pillow Integration: Uses advanced image handling to support multiple formats like .jpg and .png.
 
 * Interactive Controls: Includes a "Start Slideshow" button to trigger the sequence.
-
+ 
 * Smooth Transitions: Built-in delay using the time module to control the pace of the show.
 
 ## 🛠️ Prerequisites
